@@ -25,6 +25,10 @@ This assignment is divided into three parts: data modeling, data engineering, an
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
+![QuickDBD-SQL Homework (1)](https://user-images.githubusercontent.com/107436951/194755558-40ad9beb-5ad6-4d3e-9a4f-cb9f652d5200.png)
+
+
+
 #### Data Engineering
 
 * Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
